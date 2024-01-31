@@ -2,6 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mrmirrorr.github.io/project/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
